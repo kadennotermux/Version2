@@ -3264,9 +3264,10 @@ break
 break
 case 'tqtt': 
 reply(`Thanks to
-LORD BUDDHA
-Xeon (Me)
-My family
+GoD
+GingerSketchy
+Xeon-Base
+Dika
 And all friends who helped assemble this sexy script !!!`)
 break
             default:
